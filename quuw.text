@@ -1,0 +1,10 @@
+1. What is React JS ? Discuss features of React JS in detail.
+2. What is component in React ? Demonstrate one class based component and one function based component?
+3. What is state in React JS ? Create counter ( with all this buttons +2, -2, +1, -1, 0) application with class and function component.
+4. What is props in React JS. Explain in detail and demonstrate with example in both class and functional components.
+5. Explain component Life cycle in React. Phases and method under each phase.
+6. What is virtual DOM. Explain in detail.
+7. Create Form in React JS (fields mandatory - Name, email, mobile, gender, multi select checkbox) and on submit of form print value in console bar. [Demonstrate with class and function both]
+8. Demonstrate one example of Ternary operator and Short circuit operator. (Component - your choice).
+9. Demonstrate one example of List and key. Explain the importance of key using the example.
+10. What is React Router and create an example of routing application. (Home page, About page, Not Found Page)
